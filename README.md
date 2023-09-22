@@ -1,1 +1,2 @@
 # README example
+Sample text
