@@ -10,6 +10,6 @@ class Class
 
     foo()
     {
-        std::cout << "foo\n"
+        std::cout << "food\n"
     }
 }
